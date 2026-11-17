@@ -1,0 +1,23 @@
+{
+  "workspace_root": ".",
+  "engine_html": "engine_base.html",
+  "workbench_html": "构图分析工作台.html",
+  "cards_json": "composition-analysis/references/21类构图判断卡.json",
+  "cards_md": "composition-analysis/references/21类构图判断卡.md",
+  "taxonomy_json": "composition-analysis/references/21类构图判断卡.json",
+  "sop_md": "composition-analysis/references/真实图片分析流程SOP.md",
+  "library_image_max_side": 720,
+  "library_image_quality": 82,
+  "results_dir": "构图分析_结果",
+  "web_engine_class_count": 17,
+  "skill_only_keys": [
+    "asym_balance",
+    "radial",
+    "golden",
+    "perspective"
+  ],
+  "note": "主工作台构图分析工作台.html整合最新判读、参考图库、工具说明、本地分析和关于我五页，默认显示最新判读。本公开版嵌入8张由作者确认可公开的静态判读案例；它们仅作展示，不代表网页自动调用AI。公开新增案例前须确认图像权利。结果需写入JSON并重新渲染，静态网页不接收AI对话结果。engine_html只作为旧17类本地规则渲染模板，不单独作为主工作台打开。Commons及其他第三方素材按每张来源页和许可条件使用；Skill源码与原创文档按Apache-2.0。",
+  "library_manifest": "composition-analysis/assets/gallery/gallery_manifest.json",
+  "library_license_csv": "composition-analysis/assets/gallery/来源与授权清单.csv",
+  "version": "1.3.0"
+}

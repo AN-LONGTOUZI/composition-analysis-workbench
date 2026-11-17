@@ -1,0 +1,27 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets and signing material
+.env
+.env.*
+**/*发布签名私钥.pem
+**/*private*.pem
+*.key
+*.p12
+*.pfx
+
+# Private user test material (keep outside the public repository)
+本批次输入/
+构图分析_结果/
+标注图/
+本批次结果*.json
+*_非公开测试素材/
+*_非公开测试素材包.zip
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,2 @@
+# Preserve the exact released bytes so signed SHA-256 manifests remain verifiable.
+* -text

@@ -1,0 +1,4 @@
+龙头子 V4 发布公钥指纹（SHA-256，DER/SPKI）
+4afe3254c3e9aefea74ee83260de1a6d2a0ac3ee586b38d360fbdb4bf0370829
+
+V4 使用新签名密钥。不要把配套私钥上传到公开仓库。

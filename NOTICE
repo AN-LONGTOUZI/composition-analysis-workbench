@@ -1,0 +1,10 @@
+构图分析工作台与提示词反推项目
+版权所有 © 2026 龙头子
+
+项目代码与原创文档按 Apache License 2.0 许可，详见 LICENSE。Skill 目录中的 NOTICE 进一步说明相关素材范围。
+
+参考图库中的 Wikimedia Commons 图片及 AI 原创教学图不适用同一许可。逐图来源、许可和署名条件见 composition-analysis/assets/gallery/来源与授权清单.csv 与 gallery_manifest.json；Apache-2.0 不覆盖第三方图片。
+
+composition-analysis/assets/about/ 中的微信二维码与十八照片由作者提供，用于项目「关于我」页面，不随 Apache-2.0 开源代码授权；未经作者同意请勿另行复制或传播。
+
+工作台内嵌 8 张由项目作者提供并确认可用于公开案例展示的图片及其判读/标注数据。案例素材不随本项目 Apache-2.0 代码许可授权；该展示许可不扩大其中第三方肖像、商标、文字或原图素材的权利范围。
